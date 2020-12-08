@@ -6,4 +6,4 @@
 *.sqlite3
 
 # Local Django settings
-settings.py
+# settings.py
