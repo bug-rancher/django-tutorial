@@ -26,7 +26,7 @@ SECRET_KEY = 'i@*8j6%hulz8vd_kick()lt_d#*)2wfmpobh&n1q7-2#mq-gt='
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'django-tutorial-django-tutorial.apps.paas-dev.psnc.pl',
+    'web-django-tutorial.apps.paas-dev.psnc.pl',
     '127.0.0.1',
 ]
 
