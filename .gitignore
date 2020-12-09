@@ -7,3 +7,7 @@
 
 # Local Django settings
 # settings.py
+
+# Migrations
+**/migrations/*
+!**/migrations/__init__.py
